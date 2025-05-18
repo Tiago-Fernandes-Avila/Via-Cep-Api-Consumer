@@ -1,0 +1,9 @@
+{
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.project.sourcePaths": [
+        "src/java/entities",
+        "src/java/controller",
+        "src/java/application",
+        ""
+    ]
+}
